@@ -1,8 +1,8 @@
 {
-  "name": "gt-hw-19",
+  "name": "employeetable",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nmitchell34.github.io/employee_directory",
+  "homepage": "https://diegocordoba87.github.io/employeetable",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
