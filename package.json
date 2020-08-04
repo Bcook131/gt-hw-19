@@ -1,6 +1,8 @@
 {
   "name": "employeetable",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.x"},
   "private": true,
   "homepage": "https://diegocordoba87.github.io/employeetable",
   "dependencies": {
@@ -12,8 +14,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
-    "node": ">=0.12"
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
