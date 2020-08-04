@@ -16,6 +16,7 @@ Clone the repo, and run the npm start
 
 This index.js uses command lines to create a employee directory also using react.js.
 Application image [screenshot (29).png]
+deployed link [https://bcook131.github.io/gt-hw-19/]
 
 ## Credit
 
