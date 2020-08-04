@@ -17,12 +17,6 @@ class Home extends Component {
       console.log(this.state.employees);
     });
   }
-  handleInputChange = (event) => {
-    const { name, value } = event.target;
-    this.setState({
-      searchName: value,
-    });
-  };
   handleFormSubmit = (event) => {
     event.preventDefault();
     const currentSearchName = this.state.searchName;
@@ -33,6 +27,12 @@ class Home extends Component {
     );
     this.setState({
       employees: filteredEmployees,
+    });
+  };
+  handleInputChange = (event) => {
+    const { name, value } = event.target;
+    this.setState({
+      searchName: value,
     });
   };
   sortEmployeesByAge = () => {
