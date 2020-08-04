@@ -2,9 +2,10 @@
   "name": "employeetable",
   "version": "0.1.0",
   "engines": {
-    "node": "12.x"},
+    "node": "12.x"
+  },
   "private": true,
-  "homepage": "https://diegocordoba87.github.io/employeetable",
+  "homepage": "https://Bcook131.github.io/gt-hw-19",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
